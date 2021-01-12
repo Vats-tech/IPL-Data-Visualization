@@ -1,12 +1,12 @@
 # IPL-Data-Visualization
 IPL Data Visualization From 2008-20019
-1. Install npm packages-
+1. Install npm packages-   
    npm install
    
-2. Start server
+2. Start server-  
    npm run start
    
-3. Visualize results on your browser
+3. Visualize results on your browser-  
    Open http://localhost:8080
 
 ![Screenshot (237)](https://user-images.githubusercontent.com/74704102/104299651-7c09d900-54eb-11eb-975b-a4b6db54909e.png)
